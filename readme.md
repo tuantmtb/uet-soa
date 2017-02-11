@@ -1,6 +1,7 @@
 # Assignments SOA - Spring 2017
 
 > Assignments SOA INT3305
+> Link github: https://github.com/tuantmtb/uet-soa 
 
 # Lab
 
