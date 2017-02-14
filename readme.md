@@ -23,7 +23,7 @@ Execute socket
 
         port: localhost:2105
         Run Server.class
-        Run Server.class
+        Run Client.class
         
 ## Structure
 
